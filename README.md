@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Dinh Khanh Minh
+* Student Name: Đinh Khánh Minh
 * Student ID: BI12-265
 
